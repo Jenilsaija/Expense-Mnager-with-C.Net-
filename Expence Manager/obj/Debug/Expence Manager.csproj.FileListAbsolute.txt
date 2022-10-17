@@ -1,0 +1,46 @@
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Expence Manager.exe.config
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Expence Manager.exe
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Expence Manager.pdb
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.csproj.AssemblyReference.cache
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.csproj.SuggestedBindingRedirects.cache
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence_Manager.Login.resources
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence_Manager.Properties.Resources.resources
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.csproj.GenerateResource.cache
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.csproj.CoreCompileInputs.cache
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.csproj.CopyComplete
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.exe
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.pdb
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence_Manager.AddExpense.resources
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence_Manager.DashBoard.resources
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence_Manager.Reports.resources
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence_Manager.ViewExpence.resources
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\BouncyCastle.Crypto.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Google.Protobuf.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\K4os.Compression.LZ4.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\K4os.Hash.xxHash.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\MySql.Data.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Buffers.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Memory.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Numerics.Vectors.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\ZstdNet.dll
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\BouncyCastle.Crypto.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Google.Protobuf.pdb
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Google.Protobuf.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\K4os.Compression.LZ4.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\K4os.Hash.xxHash.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\MySql.Data.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Buffers.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Memory.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Numerics.Vectors.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Database1.mdf
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Database1_log.ldf
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Expence Manager.exe.manifest
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\bin\Debug\Expence Manager.application
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.exe.manifest
+D:\Expense Manager C# .NET Project\Expence Manager\Expence Manager\obj\Debug\Expence Manager.application
